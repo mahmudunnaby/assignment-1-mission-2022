@@ -96,3 +96,28 @@ body p{
     width: 1500px;
     border-radius: 30px;
 }
+
+.third-section-parent{
+    display: flex;
+
+    
+}
+
+.third-section-pic{
+    height: 400px;
+    width: 400px;
+    margin-left: 250px;
+    margin-top: 50px;
+    margin-right: 32px;
+
+}
+.third-section-content{
+    margin-right: 150px;
+    margin-top: 100px;
+    height: 331px;
+
+}
+.title-2{
+    font-size: 50px;
+    text-align: left;
+}
