@@ -17,7 +17,7 @@ body p{
     font-style: normal;
 
 }
-body h1{
+.heading{
     font-size: 80px;
     padding-left: 10px;
 }
@@ -37,7 +37,7 @@ body h1{
 }
 .top-section-parent{
     display: flex;
-    padding-left: 145px;
+    padding-left: 90px;
     padding-top: 100px;
 }
 .half-width{
@@ -45,6 +45,54 @@ body h1{
 }
 .half-width img{
     width: 80%;
-    padding-right: 10px;
-    padding-left: 150px;
+    padding-right: 5px;
+    padding-left: 100px;
+}
+
+.second-section-parent{
+    padding-left: 90px;
+    padding-top: 100px;
+}
+.second-section-child{
+    display: flex;
+}
+.title-1{
+    font-size: 50px;
+    text-align: center;
+}
+.mission{
+    background-color: rgba(255, 225, 255, 0.89);
+   
+    
+    margin-left: 156px;
+    padding-right: 100px;
+    padding-left: 10px;
+    height: 376px;
+    width: 1500px;
+    border-radius: 30px;
+}
+.second-section-pic{
+  height: 141px;
+  width: 141px;
+}
+.vision{
+    background-color: rgba(225, 255, 255, 0.89);
+   
+    margin-right: 24px;
+    margin-left: 24px;
+    padding-right: 100px;
+    padding-left: 10px;
+    height: 376px;
+    width: 1500px;
+    border-radius: 30px;
+}
+.goal{
+    background-color: rgba(255, 250, 225, 0.89);
+   
+    margin-right: 156px;
+    padding-right: 100px;
+    padding-left: 10px;
+    height: 376px;
+    width: 1500px;
+    border-radius: 30px;
 }
