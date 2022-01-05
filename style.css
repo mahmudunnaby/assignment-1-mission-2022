@@ -98,9 +98,12 @@ body p{
 }
 
 .third-section-parent{
+    padding-top: 100px;
     display: flex;
-
-    
+    background-image: url(./photos/shape-7.png);
+    background-repeat: no-repeat;
+    background-size: 500px;
+    background-position-y: 100px;
 }
 
 .third-section-pic{
@@ -120,4 +123,29 @@ body p{
 .title-2{
     font-size: 50px;
     text-align: left;
+}
+.forth-section-child{
+    display: flex;
+}
+.forth-section-pic{
+    height: 400px;
+    width: 400px;
+    margin-left: 32px;
+    margin-top: 200px;
+    margin-right: 150px;
+    margin-bottom: 100px;
+
+}
+.forth-section-content{
+    margin-right: 50px;
+    margin-left: 100px;
+    margin-top: 200px;
+    height: 331px;
+
+}
+.forth-section-background{
+    background-image: url(./photos/shape-9.png);
+    background-size: 500px;
+    background-repeat: no-repeat;
+    background-position: right;
 }
