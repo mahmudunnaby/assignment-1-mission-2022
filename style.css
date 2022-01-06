@@ -149,3 +149,21 @@ body p{
     background-repeat: no-repeat;
     background-position: right;
 }
+.bottom-section-child{
+    display: flex;
+}
+.shadow{
+    box-shadow: 10px, 5px, 5px rgb(0, 0, 0);
+}
+
+.bottom-section-pic{
+    height: 500px;
+    width: 500px;
+    margin-left: 50px;
+    margin-top: 20px;
+    margin-right: 232px;
+}
+.bottom-content{
+    margin-top: 100px;
+    
+}
